@@ -14,12 +14,12 @@ export const RECIPE = {
     // ],
 
     ingredients: [
-      {q: '2 packets of', c: 'instant noodle'},
-      {q: 'some', c: 'salt'},
-      {q: '1', c: 'tomato'},
-      {q: '800 ml of', c: 'water'},
-      {q: '1 pack of', c: 'dark chocolate'},
-      {q: '2 tbsp of', c: 'sheer horror'}
+      {measure: '2 packets of', name: 'instant noodle'},
+      {measure: 'some', name: 'salt'},
+      {measure: '1', name: 'tomato'},
+      {measure: '800 ml of', name: 'water'},
+      {measure: '1 pack of', name: 'dark chocolate'},
+      {measure: '2 tbsp of', name: 'sheer horror'}
     ],
 
 
