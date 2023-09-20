@@ -17,7 +17,7 @@ export const RECIPE_LIST = {
     ],
     {
         title: "Bulgogi",
-        imgSrc: require('./assets/bulgogi.jpeg'),
+        imgSrc: require('../assets/bulgogi.jpeg'),
         description: "Marinated Korean BBQ",
         ingredients: [
           {
