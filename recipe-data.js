@@ -150,4 +150,22 @@ export const RECIPE_LIST = [
       'Turn pancakes over when the top is full of little holes and teh base is golden',
     ],
   },
+  {
+    title: 'Dirty Chai Latte',
+    imgSrc: require('../assets/dirtychai.png'),
+    description:
+      'A dirty chai is a chai latte that has a shot or two of espresso.',
+    ingredients: [
+      {measure: '4 tbsp', name: 'Chai Concentrate'},
+      {measure: '1 tbsp', name: 'Sugar'},
+      {measure: '1/4 cup', name: 'Milk'},
+      {measure: '2 shots', name: 'Espresso'}
+    ],
+    instructions: [
+      'Brew Tea. Pour boiling water over chai tea bags in a mug and let steep.',
+      'Brew espresso right over sugar if using.',
+      'Steam milk. Use a milk steamer, hand held milk srother or stemaing wand to steam or froth milk with silky micro bubles.',
+      'Pour espresso into mug with tea and top with steamed milk. Finish with a thin layer of foam.'
+    ],
+  },
 ]
